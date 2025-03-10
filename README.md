@@ -1,5 +1,7 @@
 # DinoRun
 
+DinoRun has [Ukrainian :ukraine:](#dinorun-ukraine) and [English :uk:](#dinorun-ukraine) localizations
+
 ## DinoRun :ukraine:
 
 **DinoRun** — це консольна гра, де гравець керує динозавром, який повинен стрибати через перешкоди. Гра написана мовою C++ і не використовує жодних сторонніх ігрових рушіїв.
